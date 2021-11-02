@@ -2,8 +2,6 @@
 
 Welcome to the Facial-Recognition wiki!
 
-# Facial-Recognition
-
 > What is this program ?
 
 This is a program made in python, which can be used to detect faces in a video and you can give names to the trained faces.
