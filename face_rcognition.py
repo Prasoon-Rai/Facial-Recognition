@@ -2,6 +2,8 @@ import face_recognition
 import cv2
 import numpy as np
 
+print("Version - 0.1")
+
 video_capture = cv2.VideoCapture(0)
 
 # Add your face here -
